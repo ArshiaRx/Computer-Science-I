@@ -13,7 +13,7 @@ def taxi_zum_zum(moves):
                 else:
                         x += xy_coordinate[current_origin][0]
                         y += xy_coordinate[current_origin][1]
-#if none 'R' and 'L' add xy_coordinate position with origin to x and y 
+#if none 'R' and 'L' add xy_coordinate position with origin to x and y
             
         return (x, y)
     
