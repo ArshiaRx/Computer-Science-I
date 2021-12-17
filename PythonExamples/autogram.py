@@ -115,7 +115,6 @@ def autogram_finder(text, rng, verbose=True, perturb=20):
 # number of letters in the text. (That one makes the search
 # far more difficult.)
 
-
 __text = """This zesty, bookish and joyful quip was composed by
 Ilkka Kokkarinen to serve as an example for this course, and it
 contains $a a's, $b b's, $c c's, $d d's, $e e's, $f f's, $g g's,
