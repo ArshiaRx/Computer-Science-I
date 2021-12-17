@@ -1,5 +1,5 @@
 # CCPS109 - Computer Science I
-* The language used in the projects is python.
+* This course used Python language to solve the problems with the help of Spyder application.
 * This Course was taken in summer 2021 at chang school by ilkka kokkarinen.
 
 # 109 Python Problems for CCPS 109
