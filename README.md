@@ -1,10 +1,13 @@
-# CCPS109 - Computer Science I
-* This course used Python language to solve the problems with the help of Spyder application.
+# Computer Science I - CCPS109
+This course is an Introduction to computer science and programming using the Python programming language. This course allows student to have the ability to read, write, and understand small Python functions that consist of the core language and its data structures, and break down abstract problems into Python structure to solve them.
+
+* In this course Python language was used to solve the problems with the help of Spyder IDE.
 * This Course was taken in summer 2021 at chang school by ilkka kokkarinen.
+* This course was taken as my 1st minor course 1/6 toward Computer Science degree.
 
 ##### You may refer to my contents, but COPYING them is strictly prohibited, as it would violate policy 60.
 
--> (S2021) Summer
+-> S2021 (Summer)
 
 # 109 Python Problems for CCPS 109
 
@@ -13,7 +16,7 @@ This repository contains the problem specifications, the automated tester and th
 Wordlist `words_sorted.txt` adapted from [dwyl/english-words](https://github.com/dwyl/english-words).
 
 --- 
-Completed 50 Labs Successfully.
+Completed 45 Labs Successfully.
 
 --> Numbers on the right indicate the problem number.
 
