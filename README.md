@@ -16,7 +16,7 @@ This repository contains the problem specifications, the automated tester and th
 Wordlist `words_sorted.txt` adapted from [dwyl/english-words](https://github.com/dwyl/english-words).
 
 --- 
-Completed 45 Labs Successfully.
+Completed 45 Labs Successfully. Final Grade: A+ 
 
 --> Numbers on the right indicate the problem number.
 
