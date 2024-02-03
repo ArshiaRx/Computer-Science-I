@@ -2,7 +2,7 @@
 This course is an Introduction to computer science and programming using the Python programming language. This course allows student to have the ability to read, write, and understand small Python functions that consist of the core language and its data structures, and break down abstract problems into Python structure to solve them.
 
 * In this course Python language was used to solve the problems with the help of Spyder IDE.
-* This Course was taken in summer 2021 at chang school (TMU/Ryerson) by ilkka kokkarinen.
+* This Course was taken in summer 2021 at chang school (TMU/Ryerson) by Dr. ilkka kokkarinen.
 * This course was taken as my 1st minor course 1/6 toward Computer Science degree.
 
 ##### You may refer to my contents, but COPYING them is strictly prohibited, as it would violate policy 60.
